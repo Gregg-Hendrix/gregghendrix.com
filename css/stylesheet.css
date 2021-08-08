@@ -5,3 +5,14 @@
 #intro{
   padding: 1em;
 }
+
+#footer{
+  text-align: center;
+  border-style: solid;
+  flex-shrink: 0;
+  position: bottom;
+}
+
+/* .card{
+  margin: 1cm;
+} */
