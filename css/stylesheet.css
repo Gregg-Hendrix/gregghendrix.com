@@ -19,5 +19,9 @@
 #footer{
   text-align: center;
   border-style: solid;
-  margin-top: ???px;
+}
+
+#text-box{
+  text-align: center;
+  padding: 5px;
 }
