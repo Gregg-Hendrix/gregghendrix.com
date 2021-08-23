@@ -13,7 +13,7 @@
 }
 
 main {
-  min-height: calc(100vh - 56px - 51px);
+  min-height: calc(100vh - 56px - 25px);
 }
 
 #footer{
