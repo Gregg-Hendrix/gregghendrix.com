@@ -26,6 +26,10 @@ main {
   bottom: 0;
 }
 
+#footer a {
+  color: purple;
+}
+
 #text-box{
   text-align: center;
   padding: 5px;
