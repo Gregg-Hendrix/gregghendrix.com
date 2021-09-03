@@ -16,6 +16,9 @@ html {
   padding: 1em;
 }
 
+main{
+  padding-bottom: 140px;
+}
 
 #footer {
   text-align: center;
