@@ -16,15 +16,12 @@ html {
   padding: 1em;
 }
 
-/* main {
-  min-height: calc(100vh - 38px - 50px);
-} */
 
-footer {
+#footer {
   text-align: center;
-  position: relative;
+  position: fixed;
   bottom: 0;
-  margin-top: auto;
+  width: 100%;
 }
 
 #footer a {
