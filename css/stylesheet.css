@@ -19,11 +19,15 @@ html {
 
 main{
   flex-grow: 1;
+  padding-bottom: 140px;
 }
 
 #footer {
   text-align: center;
   flex-shrink: 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 #footer a {
