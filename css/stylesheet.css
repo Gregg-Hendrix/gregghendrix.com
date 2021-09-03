@@ -4,6 +4,7 @@ html {
 
 #head{
   text-align: center;
+  flex-shrink: 0;
 }
 
 #body{
@@ -17,14 +18,12 @@ html {
 }
 
 main{
-  padding-bottom: 140px;
+  flex-grow: 1;
 }
 
 #footer {
   text-align: center;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
+  flex-shrink: 0;
 }
 
 #footer a {
